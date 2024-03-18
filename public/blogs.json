@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "title": "The Hidden Garden",
+      "cover": "https://i.ibb.co/VMRR0Tm/online-blog.jpg",
+      "author": "Alice Smith",
+      "author_img": "https://i.ibb.co/HhZbWrP/portrait-thinking-young-readhead-man-white-shirt-sitting-wooden-table-with-pen-his-mouth.jpg",
+      "hashtag": "#fantasy #adventure #magic",
+      "reading_time": "2 hours",
+      "posted_date": "2024-03-14"
+    },
+    {
+      "id": 2,
+      "title": "Echoes of Eternity",
+      "cover": "https://i.ibb.co/rmSQcfy/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/qBm0CDs/thoughtful-creative-male-journalist-writer-biting-pencil-holding-notebook-writing-schedule-look-thin.jpg",
+      "hashtag": "#sci-fi #time-travel #mystery",
+      "reading_time": "3 hours",
+      "posted_date": "2024-03-13"
+    },
+    {
+      "id": 3,
+      "title": "City of Whispers",
+      "cover": "https://i.ibb.co/8P5hqCB/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/BVNjq0W/lovely-woman.jpg",
+      "hashtag": "#thriller #crime #detective",
+      "reading_time": "4 hours",
+      "posted_date": "2024-03-12"
+    }]
